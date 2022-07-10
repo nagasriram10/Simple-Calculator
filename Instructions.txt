@@ -1,0 +1,20 @@
+Instructions:
+Note: The below operators must be between two numbers
+  '+' - Addition
+  '-' - Subtraction
+  'x' or '*' - Multiplication
+  'xx' or '**' - Power (Left number raised to the power of right number)
+  '/' - Division (returns Quotient as Decimal)
+  '//' - Division (returns Quotient as Integer)
+  '.' - Enters a decimal to the input
+  
+  '(' - Open bracket
+  ')' - Closed bracket
+Note: If you wish to use brackets, then the expression must be inside the brackets
+Example: 3+(2*5)
+  
+  '<' - Deletes the last entered text
+  'Clear' - Clears the input screen
+  '=' - Displays the result
+  
+Note: You can give your input through keyboard also
